@@ -1,0 +1,27 @@
+
+.products
+{
+    text-align:center;
+    text-color:black;
+
+}
+
+.productsSection
+{
+    margin:auto;
+    margin-top:12px;
+    display:flex;
+    flex-wrap: wrap;
+    padding:20px;
+    justify-content:space-evenly;
+
+}
+.productsC{
+    display:flex;
+    padding:auto;
+    justify-content:space-evenly;
+}
+label
+{
+    color:rgb(201, 58, 58);
+}

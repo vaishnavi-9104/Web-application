@@ -1,0 +1,7 @@
+.sepline
+{
+height:7px;
+background-color:rgb(82, 82, 82);
+z-index:20;
+position:relative;
+}

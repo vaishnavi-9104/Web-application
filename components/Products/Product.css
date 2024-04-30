@@ -1,0 +1,12 @@
+.productsCard
+{
+    background-color: rgb(239, 216, 235);
+    border:5px solid rgba(225, 78, 103, 0.667);
+    height:400px;
+    width:250px;;
+    margin:10px;
+}
+.title1
+{
+    color:red;
+}

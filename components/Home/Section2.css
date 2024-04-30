@@ -1,0 +1,48 @@
+.first
+{
+    display:flex;
+    justify-content:center;
+    max-width:70vw;
+    margin:auto;
+    color:black;
+    align-items:center;
+    flex-direction:row;
+}
+
+.secImg{
+    position:relative;
+}
+.secImg img{
+    width:400px;
+    position:relative;
+    z-index:10;
+}
+
+.secImg video{
+    position:absolute;
+    top: 51px;
+    right:0px;
+    width:380px;
+    overflow:hidden;
+    
+}
+
+section.first > div{
+    display:flex;
+    flex-direction:column;
+    overflow:hidden;
+    padding: 34px 0px 34px 20px;
+    
+}
+.first > div> span:first-child
+{
+font-size: 48px;
+font-weight: bolder;
+}
+.first > div> span:nth-child(2){
+font-size: 24px;
+}
+.third div > span:first-child
+{
+    font-size:34px;
+}

@@ -1,0 +1,32 @@
+.faq h1{
+    text-align:center;
+    font-size:48px;
+}
+.faq
+{
+    color:white;
+    padding:34px;
+    font-size:18px;
+    background:black;
+    
+}
+.faqbox
+{
+    background-color:rgb(64, 61, 61);
+    justify-content:space-between;
+    display:flex;
+    padding:10px;
+    max-width:60vw;
+    margin:24px auto;
+    cursor:pointer;
+    transition:all 1s linear;
+    font-size:24px;
+}
+.faqbox svg{
+    filter:invert(1);
+}
+.faqbox:hover{
+    background-color: rgb(139, 135, 135);
+    color:black;
+
+}
